@@ -3,8 +3,13 @@ package com.samad.gitTest;
 public class SecondClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		String str = "aaaagghkhjahxgslaJXHV";
+		
+		String str1= str.toUpperCase();
+		System.out.println(str1);
+		
+		
 	}
 
 }
